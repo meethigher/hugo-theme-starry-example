@@ -1,0 +1,13 @@
+.idea/
+.deploy_git/
+public/
+blog/
+dist/
+resources/
+themes/
+*.lock
+config.json
+hfopener.json
+*.exe
+hugo.toml
+hugo.yaml

@@ -17,9 +17,8 @@ About Me
 
 Welcome! My name is Kit Chen, I am an engineer focusing on Java back-end. I also love front-end technology. This theme is the crystallization of my interest.
 
-<div class="img-box">
-    <img data-src="https://raw.githubusercontent.com/meethigher/hugo-theme-starry/main/images/starry-banner.png" width="1500" height="500"/>
-</div>
+![Starry](index/starry-banner.jpg)
+
 
 This [Hugo](https://gohugo.io/) theme, called **Starry**, is designed to provide a clean, card-style layout that emphasizes readability, and it is the successor of the original **Starry** theme developed with [Hexo](http://hexo.io/).
 

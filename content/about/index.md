@@ -17,7 +17,12 @@ About Me
 
 Welcome! My name is Kit Chen, I am an engineer focusing on Java back-end. I also love front-end technology. This theme is the crystallization of my interest.
 
-<div class="img-box">
+<div class="img-box" id="tBox">
+    <style>
+        #tBox.loaded {
+            background-color: transparent;
+        }
+    </style>
     <img data-src="https://raw.githubusercontent.com/meethigher/hugo-theme-starry/main/images/starry-banner.png" width="1500" height="500"/>
 </div>
 
